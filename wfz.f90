@@ -1,3 +1,4 @@
+!Average the electrostatic potentials in each xy plane
 program main
   implicit none
   integer g1, g2, g3
